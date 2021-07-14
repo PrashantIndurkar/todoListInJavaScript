@@ -28,6 +28,9 @@ form button {
   border-radius: 10px;
   margin-right: 10px;
 }
+form input:focus {
+  outline: none;
+}
 
 form button {
   color: #3c2c83;
